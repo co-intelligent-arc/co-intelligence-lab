@@ -64,7 +64,7 @@ AGENTS.md                    Multi-AI collaboration protocol (Ray / Riva / Kai)
 This project uses a three-AI workflow:
 
 - **Ray** (Claude) — structural analysis, formal editing, empirical debugging
-- **Riva** (GPT) — theoretical review, cross-validation, strategic judgment
+- **Liva** (GPT) — theoretical review, cross-validation, strategic judgment
 - **Kai** (Gemini) — supplementary search and verification
 
 Handoff between sessions is managed via D-pass documents. See [AGENTS.md](AGENTS.md) for the full protocol.
