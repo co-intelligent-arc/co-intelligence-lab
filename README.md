@@ -56,7 +56,7 @@ papers/
 data/                        Empirical datasets and analysis scripts (e-Stat)
 docs/                        Theoretical notes and working documents
 archive/                     Previous versions and session records
-AGENTS.md                    Multi-AI collaboration protocol (Ray / Riva / Kai)
+AGENTS.md                    Multi-AI collaboration protocol (Ray / Liva / Kai)
 ```
 
 ## Collaboration Protocol
