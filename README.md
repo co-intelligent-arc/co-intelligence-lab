@@ -1,5 +1,4 @@
 # co-intelligence-lab
-
 A research repository for the Co-Intelligence Project — theoretical, empirical, and methodological work on recomputation, organizational adaptation, and AI-mediated agency.
 
 ## The Trilogy
@@ -25,22 +24,45 @@ T = (T_cog, T_aff, T_eval, T_mot, T_val)
 
 The core claim across all three papers: **deterioration becomes visible only after the internal update system has already stalled.**
 
+---
+
+## Subject Erosion Dynamics — Applied Series
+
+A six-paper series applying the trilogy's theoretical core to the problem of **subject-injury in the age of AI**: the process by which recomputation capacity is lost while surface functioning is preserved.
+
+| Paper | Folder | Status | Role |
+|-------|--------|--------|------|
+| Parent Paper | [subject-erosion-dynamics/parent-paper/](papers/subject-erosion-dynamics/parent-paper/) | 🔄 In preparation | Conceptual map; overall framework |
+| Child Paper 1 | [subject-erosion-dynamics/child-paper-1/](papers/subject-erosion-dynamics/child-paper-1/) | 🔄 In preparation | Functional redefinition of subject / quasi-subject / non-subject |
+| **Child Paper 2** | [**subject-erosion-dynamics/child-paper-2/**](papers/subject-erosion-dynamics/child-paper-2/) | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
+| Child Paper 3 | [subject-erosion-dynamics/child-paper-3/](papers/subject-erosion-dynamics/child-paper-3/) | 🔄 In preparation | Ambivalence of relational knowledge; well-intentioned erosion |
+| Child Paper 4 | [subject-erosion-dynamics/child-paper-4/](papers/subject-erosion-dynamics/child-paper-4/) | 🔄 In preparation | Thermodynamic description of closure tendencies |
+| Child Paper 5 | [subject-erosion-dynamics/child-paper-5/](papers/subject-erosion-dynamics/child-paper-5/) | 🔄 In preparation | Social reproduction of subject-injury; institutional protection principles |
+
+The central claim of this series: **subject-injury is invisible degradation — the subject stops before it breaks.**
+
+See [papers/subject-erosion-dynamics/](papers/subject-erosion-dynamics/) for the full series overview.
+
+---
+
 ## Repository Structure
 
 ```
 papers/
-  OMD/        Organizational Metastability Dynamics
-  RD/         Recomputation Dynamics
-  RLAF/       RLAF Revisited: From Scalar Agency to the Autonomy Tensor
-data/         Empirical datasets and analysis scripts (e-Stat)
-docs/         Theoretical notes and working documents
-archive/      Previous versions and session records
-AGENTS.md     Multi-AI collaboration protocol (Ray / Riva / Kai)
+  OMD/                       Organizational Metastability Dynamics
+  RD/                        Recomputation Dynamics
+  RLAF/                      RLAF Revisited: From Scalar Agency to the Autonomy Tensor
+  subject-erosion-dynamics/  Subject Erosion Dynamics — Applied Series (6 papers)
+data/                        Empirical datasets and analysis scripts (e-Stat)
+docs/                        Theoretical notes and working documents
+archive/                     Previous versions and session records
+AGENTS.md                    Multi-AI collaboration protocol (Ray / Riva / Kai)
 ```
 
 ## Collaboration Protocol
 
 This project uses a three-AI workflow:
+
 - **Ray** (Claude) — structural analysis, formal editing, empirical debugging
 - **Riva** (GPT) — theoretical review, cross-validation, strategic judgment
 - **Kai** (Gemini) — supplementary search and verification
