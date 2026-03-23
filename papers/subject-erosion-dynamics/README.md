@@ -27,7 +27,7 @@ The series addresses three interconnected questions:
 | Paper | Folder | Status | Role |
 |-------|--------|--------|------|
 | Parent Paper | `parent-paper/` | 🔄 In preparation | Conceptual map; overall framework |
-| Child Paper 1 | `child-paper-1/` | 🔄 In preparation | Functional redefinition of subject / quasi-subject / non-subject |
+| **Child Paper 1** | [**`child-paper-1/`**](child-paper-1/) | **✅ Available** | **Functional redefinition of subject / quasi-subject / non-subject** |
 | **Child Paper 2** | **`child-paper-2/`** | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
 | Child Paper 3 | `child-paper-3/` | 🔄 In preparation | Ambivalence of relational knowledge; well-intentioned erosion |
 | Child Paper 4 | `child-paper-4/` | 🔄 In preparation | Thermodynamic description of closure tendencies |
