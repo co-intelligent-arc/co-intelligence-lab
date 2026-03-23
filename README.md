@@ -36,7 +36,7 @@ A six-paper series applying the trilogy's theoretical core to the problem of **s
 | **Child Paper 1** |  [**subject-erosion-dynamics/child-paper-1/**](papers/subject-erosion-dynamics/child-paper-1/)| **✅ Available** | **Functional redefinition of subject / quasi-subject / non-subject** |
 | **Child Paper 2** | [**subject-erosion-dynamics/child-paper-2/**](papers/subject-erosion-dynamics/child-paper-2/) | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
 | **Child Paper 3** | [**subject-erosion-dynamics/child-paper-3/**](papers/subject-erosion-dynamics/child-paper-3/) | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
-| Child Paper 4 | [subject-erosion-dynamics/child-paper-4/](papers/subject-erosion-dynamics/child-paper-4/) | 🔄 In preparation | Thermodynamic description of closure tendencies |
+| **Child Paper 4** | [**subject-erosion-dynamics/child-paper-4/**](papers/subject-erosion-dynamics/child-paper-4/) | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
 | Child Paper 5 | [subject-erosion-dynamics/child-paper-5/](papers/subject-erosion-dynamics/child-paper-5/) | 🔄 In preparation | Social reproduction of subject-injury; institutional protection principles |
 
 The central claim of this series: **subject-injury is invisible degradation — the subject stops before it breaks.**
