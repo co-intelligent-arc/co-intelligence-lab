@@ -32,7 +32,7 @@ A six-paper series applying the trilogy's theoretical core to the problem of **s
 
 | Paper | Folder | Status | Role |
 |-------|--------|--------|------|
-| Parent Paper | [subject-erosion-dynamics/parent-paper/](papers/subject-erosion-dynamics/parent-paper/) | 🔄 In preparation | Conceptual map; overall framework |
+| **Parent Paper** | [subject-erosion-dynamics/parent-paper/](papers/subject-erosion-dynamics/parent-paper/) | **✅ Available** | Conceptual map; overall framework |
 | **Child Paper 1** |  [**subject-erosion-dynamics/child-paper-1/**](papers/subject-erosion-dynamics/child-paper-1/)| **✅ Available** | **Functional redefinition of subject / quasi-subject / non-subject** |
 | **Child Paper 2** | [**subject-erosion-dynamics/child-paper-2/**](papers/subject-erosion-dynamics/child-paper-2/) | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
 | **Child Paper 3** | [**subject-erosion-dynamics/child-paper-3/**](papers/subject-erosion-dynamics/child-paper-3/) | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
