@@ -30,7 +30,7 @@ The series addresses three interconnected questions:
 | **Child Paper 1** | [**`child-paper-1/`**](child-paper-1/) | **✅ Available** | **Functional redefinition of subject / quasi-subject / non-subject** |
 | **Child Paper 2** | [**`child-paper-2/`**](child-paper-2/) | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
 | **Child Paper 3** | [**`child-paper-3/`**](child-paper-3/) | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
-| Child Paper 4 | `child-paper-4/` | 🔄 In preparation | Thermodynamic description of closure tendencies |
+| **Child Paper 4** | [**`child-paper-4/`**](child-paper-4/) | **✅ Available** | **Minimal causal chain; dynamics of subject-injury** |
 | Child Paper 5 | `child-paper-5/` | 🔄 In preparation | Social reproduction of subject-injury; institutional protection principles |
 
 Child Paper 2 is currently the lead paper for external distribution. The remaining papers are in active preparation.
