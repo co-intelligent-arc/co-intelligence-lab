@@ -44,7 +44,11 @@ The central claim of this series: **subject-injury is invisible degradation — 
 See [papers/subject-erosion-dynamics/](papers/subject-erosion-dynamics/) for the full series overview.
 
 ---
+## Essays / 論考
 
+- [Essay on Essays（論考論考）](./essays/ronko-ronko/ronko_ronko_v0_1_JP.md) — 「考える」とは何か、AI時代の主体・従属・関係知
+
+---
 ## Repository Structure
 
 ```
