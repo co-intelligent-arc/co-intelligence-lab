@@ -57,6 +57,7 @@ papers/
   RD/                        Recomputation Dynamics
   RLAF/                      RLAF Revisited: From Scalar Agency to the Autonomy Tensor
   subject-erosion-dynamics/  Subject Erosion Dynamics — Applied Series (6 papers)
+essays/                      Theoretical essays — non-peer-reviewed conceptual foundations
 data/                        Empirical datasets and analysis scripts (e-Stat)
 docs/                        Theoretical notes and working documents
 archive/                     Previous versions and session records
