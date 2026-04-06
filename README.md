@@ -46,7 +46,13 @@ See [papers/subject-erosion-dynamics/](papers/subject-erosion-dynamics/) for the
 ---
 ## Essays / 論考
 
-- [Essay on Essays（論考論考）](./essays/ronko-ronko/ronko_ronko_v0_1_JP.md) — 「考える」とは何か、AI時代の主体・従属・関係知
+Non-peer-reviewed theoretical essays forming the conceptual foundation of the research program. Each essay develops ideas that underlie the formal papers.
+
+| Title | JP | EN | Summary |
+|-------|----|----|---------| 
+| Essay on Essays (論考論考) | [JP](./essays/ronko-ronko/ronko_ronko_v0_1_JP.md) | [EN](./essays/ronko-ronko/ronko_ronko_v0_1_EN.md) | What does it mean to think? A four-layer decomposition of cognition and a theory of agency protection in the age of AI. |
+| Intentional Emergence (意図的創発) | [JP](./essays/intentional-emergence/intentional_emergence_v0_3.md) | [EN](./essays/intentional-emergence/intentional_emergence_v0_3_EN.md) | Can the conditions for emergence be designed? A theory of vessel formation, attention terrain, and the distinction between open and closed emergence. |
+| Relational Knowledge Design (関係知の設計) | [JP](./essays/relational-knowledge-design/relational_knowledge_design_v0_1.md) | [EN](./essays/relational-knowledge-design/relational_knowledge_design_v0_1_EN.md) | How does knowledge arise between subjects? A structural theory of latent vessels, scanning, receptive filling, and the design of relational fields. |
 
 ---
 ## Repository Structure
