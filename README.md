@@ -55,6 +55,21 @@ Non-peer-reviewed theoretical essays forming the conceptual foundation of the re
 | Relational Knowledge Design (関係知の設計) | [JP](./essays/relational-knowledge-design/relational_knowledge_design_v0_1.md) | [EN](./essays/relational-knowledge-design/relational_knowledge_design_v0_1_EN.md) | How does knowledge arise between subjects? A structural theory of latent vessels, scanning, receptive filling, and the design of relational fields. |
 
 ---
+## Shepherd Model
+
+A risk-reducing architecture for AI-mediated decision environments. The Shepherd Model is constituted by three functions — difference generation, difference reading, and recomputation return — regulated by two control variables: difference retention (D) and feedback intensity (F). Its design criterion: after the loop has run, the human must stand more exactly at the fork than before.
+
+| File | Language | Status |
+|------|----------|--------|
+| [shepherd_model_EN_v0_4_integrated.md](papers/shepherd-model/shepherd_model_EN_v0_4_integrated.md) | EN | v0.4 — draft complete |
+| [shepherd_model_JP_v0_4_final.md](papers/shepherd-model/shepherd_model_JP_v0_4_final.md) | JP | v0.4 — draft complete |
+
+Supplementary design documents in [docs/notes/](docs/notes/).
+
+The central claim: **what single-track AI mediation erodes is not the supply of judgment — it is the structural conditions under which decision remains possible.**
+
+
+---
 ## Repository Structure
 
 ```
@@ -63,6 +78,7 @@ papers/
   RD/                        Recomputation Dynamics
   RLAF/                      RLAF Revisited: From Scalar Agency to the Autonomy Tensor
   subject-erosion-dynamics/  Subject Erosion Dynamics — Applied Series (6 papers)
+  shepherd-model/            The Shepherd Model — risk-reducing architecture for human decision preservation
 essays/                      Theoretical essays — non-peer-reviewed conceptual foundations
 data/                        Empirical datasets and analysis scripts (e-Stat)
 docs/                        Theoretical notes and working documents
