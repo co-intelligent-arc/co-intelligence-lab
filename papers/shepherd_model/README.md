@@ -1,3 +1,4 @@
+<img width="754" height="723" alt="shepherd_model_figure_v0 2" src="https://github.com/user-attachments/assets/60d077b5-cac4-4674-bd62-83df56f80e79" />
 # The Shepherd Model v0.4
 
 **Full title:** The Shepherd Model: A Risk-Reducing Architecture for Intentional Emergence, Multi-Track Audit, and Human Return in Multi-Model Systems
