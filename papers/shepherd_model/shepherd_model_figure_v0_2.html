@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Shepherd Model v0.4</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #faf8f4;
+    font-family: 'EB Garamond', Georgia, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
+
+  .page {
+    width: 794px;
+    background: #faf8f4;
+    padding: 40px 48px 36px;
+    position: relative;
+  }
+
+  .header {
+    border-bottom: 1.5px solid #1a1a1a;
+    padding-bottom: 12px;
+    margin-bottom: 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .title-main {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    color: #1a1a1a;
+    line-height: 1.2;
+  }
+  .title-sub {
+    font-size: 11.5px;
+    color: #555;
+    font-style: italic;
+    margin-top: 4px;
+    letter-spacing: 0.01em;
+  }
+  .version-tag {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: #888;
+    background: #eee;
+    padding: 3px 8px;
+    border-radius: 2px;
+    white-space: nowrap;
+  }
+
+  .diagram { position: relative; width: 100%; }
+  .main-svg { width: 100%; display: block; }
+
+  .bottom-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 20px;
+  }
+
+  .info-box {
+    border: 1px solid #ccc;
+    padding: 12px 14px;
+    background: #fff;
+  }
+  .info-box-title {
+    font-size: 10px;
+    font-family: 'JetBrains Mono', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #888;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+  }
+  .info-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 5px;
+    align-items: baseline;
+  }
+  .info-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    font-weight: 500;
+    color: #1a1a1a;
+    min-width: 20px;
+  }
+  .info-text {
+    font-size: 12px;
+    color: #333;
+    line-height: 1.4;
+  }
+
+  .claim-box {
+    border: 1px solid #1a1a1a;
+    padding: 13px 16px;
+    background: #1a1a1a;
+    color: #faf8f4;
+    display: flex;
+    align-items: center;
+  }
+  .claim-text {
+    font-size: 12.5px;
+    line-height: 1.6;
+    font-style: italic;
+  }
+  .claim-text strong {
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .footer {
+    margin-top: 16px;
+    border-top: 1px solid #ccc;
+    padding-top: 8px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    color: #999;
+    font-style: italic;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <div class="title-block">
+      <div class="title-main">The Shepherd Model</div>
+      <div class="title-sub">A Risk-Reducing Architecture for Difference Generation, Multi-Track Audit, and Human Return</div>
+    </div>
+    <div class="version-tag">v0.4 · 2026-04</div>
+  </div>
+
+  <div class="diagram">
+    <svg class="main-svg" viewBox="0 0 698 368" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#444"/>
+        </marker>
+        <marker id="arrow-blue" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#2d5a8e"/>
+        </marker>
+        <marker id="arrow-light" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#999"/>
+        </marker>
+        <marker id="arrow-red" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#8b2020"/>
+        </marker>
+        <marker id="arrow-purple" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#6b3a9a"/>
+        </marker>
+      </defs>
+
+      <!-- ===== THE HUMAN ===== -->
+      <ellipse cx="349" cy="38" rx="64" ry="26" fill="#1a1a1a"/>
+      <text x="349" y="34" text-anchor="middle" font-family="'EB Garamond', serif" font-size="13" fill="#faf8f4" font-weight="600">The Human</text>
+      <text x="349" y="50" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="9" fill="#bbb">at the fork</text>
+
+      <!-- inquiry arrow -->
+      <line x1="349" y1="64" x2="349" y2="85" stroke="#444" stroke-width="1.5" marker-end="url(#arrow)"/>
+      <text x="364" y="78" font-family="'EB Garamond', serif" font-size="10" fill="#777" font-style="italic">inquiry</text>
+
+      <!-- ===== D: DIFFERENCE RETENTION ===== -->
+      <rect x="276" y="86" width="146" height="30" fill="#f0f5fc" stroke="#2d5a8e" stroke-width="1.8" stroke-dasharray="5,3"/>
+      <text x="349" y="99" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#2d5a8e" font-weight="500">D · Difference Retention</text>
+      <text x="349" y="111" text-anchor="middle" font-family="'EB Garamond', serif" font-size="9.5" fill="#5580a8" font-style="italic">standpoint non-identity maintained</text>
+
+      <!-- D → tracks -->
+      <line x1="296" y1="116" x2="148" y2="150" stroke="#2d5a8e" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arrow-blue)"/>
+      <line x1="349" y1="116" x2="349" y2="150" stroke="#2d5a8e" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arrow-blue)"/>
+      <line x1="402" y1="116" x2="550" y2="150" stroke="#2d5a8e" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arrow-blue)"/>
+
+      <!-- Fn 1 label -->
+      <text x="349" y="145" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8.5" fill="#999" letter-spacing="0.08em">FUNCTION 1 · DIFFERENCE GENERATION</text>
+
+      <!-- Track 1 -->
+      <rect x="58" y="152" width="178" height="46" fill="#f5f5f0" stroke="#aaa" stroke-width="1.2"/>
+      <text x="147" y="170" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#333" font-weight="500">Track 1</text>
+      <text x="147" y="184" text-anchor="middle" font-family="'EB Garamond', serif" font-size="11" fill="#555" font-style="italic">Cost-oriented standpoint</text>
+      <text x="147" y="196" text-anchor="middle" font-family="'EB Garamond', serif" font-size="9.5" fill="#777">efficiency · risk · feasibility</text>
+
+      <!-- Track 2 -->
+      <rect x="260" y="152" width="178" height="46" fill="#f5f5f0" stroke="#aaa" stroke-width="1.2"/>
+      <text x="349" y="170" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#333" font-weight="500">Track 2</text>
+      <text x="349" y="184" text-anchor="middle" font-family="'EB Garamond', serif" font-size="11" fill="#555" font-style="italic">Value-oriented standpoint</text>
+      <text x="349" y="196" text-anchor="middle" font-family="'EB Garamond', serif" font-size="9.5" fill="#777">equity · principle · long-term</text>
+
+      <!-- Track 3 -->
+      <rect x="462" y="152" width="178" height="46" fill="#f5f5f0" stroke="#aaa" stroke-width="1.2"/>
+      <text x="551" y="170" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#333" font-weight="500">Track 3</text>
+      <text x="551" y="184" text-anchor="middle" font-family="'EB Garamond', serif" font-size="11" fill="#555" font-style="italic">Blind-spot-oriented standpoint</text>
+      <text x="551" y="196" text-anchor="middle" font-family="'EB Garamond', serif" font-size="9.5" fill="#777">unasked · excluded · structural</text>
+
+      <!-- Tracks → Audit -->
+      <line x1="147" y1="198" x2="252" y2="234" stroke="#444" stroke-width="1.3" marker-end="url(#arrow)"/>
+      <line x1="349" y1="198" x2="349" y2="234" stroke="#444" stroke-width="1.3" marker-end="url(#arrow)"/>
+      <line x1="551" y1="198" x2="446" y2="234" stroke="#444" stroke-width="1.3" marker-end="url(#arrow)"/>
+
+      <!-- Fn 2 label -->
+      <text x="349" y="230" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8.5" fill="#999" letter-spacing="0.08em">FUNCTION 2 · MULTI-TRACK AUDIT</text>
+
+      <!-- Audit outer box -->
+      <rect x="156" y="236" width="386" height="56" fill="#fff8f0" stroke="#c8781a" stroke-width="1.5"/>
+
+      <!-- HARD -->
+      <rect x="164" y="243" width="110" height="42" fill="#eaf4ea" stroke="#4a8a4a" stroke-width="1"/>
+      <text x="219" y="258" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#2d6a2d" font-weight="500">HARD</text>
+      <text x="219" y="271" text-anchor="middle" font-family="'EB Garamond', serif" font-size="10" fill="#4a7a4a" font-style="italic">provisional agreements</text>
+      <text x="219" y="282" text-anchor="middle" font-family="'EB Garamond', serif" font-size="9" fill="#666">cross-track convergence</text>
+
+      <!-- DIVERGE -->
+      <rect x="282" y="243" width="134" height="42" fill="#fff0e0" stroke="#c8781a" stroke-width="1"/>
+      <text x="349" y="258" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#8b5a10" font-weight="500">DIVERGE</text>
+      <text x="349" y="270" text-anchor="middle" font-family="'EB Garamond', serif" font-size="8.8" fill="#8b5a10" font-style="italic">logical / frame / value</text>
+      <text x="349" y="281" text-anchor="middle" font-family="'EB Garamond', serif" font-size="8.8" fill="#8b5a10" font-style="italic">temporal / institutional / impl.</text>
+
+      <!-- OPEN -->
+      <rect x="424" y="243" width="110" height="42" fill="#fde8e8" stroke="#8b2020" stroke-width="1.3"/>
+      <text x="479" y="258" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#8b2020" font-weight="500">OPEN</text>
+      <text x="479" y="271" text-anchor="middle" font-family="'EB Garamond', serif" font-size="10" fill="#8b2020" font-style="italic">value-laden trade-offs</text>
+      <text x="479" y="282" text-anchor="middle" font-family="'EB Garamond', serif" font-size="9" fill="#8b2020">returned unclosed</text>
+
+      <!-- OPEN → down -->
+      <line x1="479" y1="292" x2="479" y2="312" stroke="#8b2020" stroke-width="1.5" marker-end="url(#arrow-red)"/>
+
+      <!-- F: FEEDBACK INTENSITY -->
+      <rect x="412" y="314" width="162" height="30" fill="#f5f0fc" stroke="#6b3a9a" stroke-width="1.8" stroke-dasharray="5,3"/>
+      <text x="493" y="327" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#6b3a9a" font-weight="500">F · Feedback Intensity</text>
+      <text x="493" y="339" text-anchor="middle" font-family="'EB Garamond', serif" font-size="9.5" fill="#8b5ab8" font-style="italic">reorientation pressure regulated</text>
+
+      <!-- Fn 3 label -->
+      <text x="222" y="320" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8.5" fill="#999" letter-spacing="0.06em">FUNCTION 3 · RETURN</text>
+
+      <!-- Reopened Decision Site -->
+      <rect x="140" y="312" width="256" height="32" fill="#1a1a1a"/>
+      <text x="268" y="326" text-anchor="middle" font-family="'EB Garamond', serif" font-size="12" fill="#faf8f4" font-weight="600">Reopened Decision Site</text>
+      <text x="268" y="340" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8.5" fill="#aaa">fork live · trade-off exposed · human inhabits</text>
+
+      <!-- F → Return -->
+      <line x1="412" y1="328" x2="396" y2="328" stroke="#6b3a9a" stroke-width="1.2" stroke-dasharray="3,2" marker-end="url(#arrow-purple)"/>
+
+      <!-- Circulation loop (left side) -->
+      <path d="M 140 328 Q 28 328 28 38 Q 28 16 80 16" stroke="#555" stroke-width="1.5" fill="none" marker-end="url(#arrow)" stroke-dasharray="6,3"/>
+
+      <!-- Circulation label -->
+      <text x="19" y="185" font-family="'EB Garamond', serif" font-size="9.5" fill="#888" font-style="italic" text-anchor="middle" transform="rotate(-90, 19, 185)">serial circulation · iterative return</text>
+
+    </svg>
+  </div>
+
+  <div class="bottom-row">
+    <div class="info-box">
+      <div class="info-box-title">Three Functions</div>
+      <div class="info-row">
+        <span class="info-label">①</span>
+        <span class="info-text"><strong>Difference Generation</strong> — outputs produced from irreducibly non-identical standpoints (D maintained)</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">②</span>
+        <span class="info-text"><strong>Multi-Track Audit</strong> — divergence classified as HARD / DIVERGE / OPEN; only OPEN proceeds</span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">③</span>
+        <span class="info-text"><strong>Recomputation Return</strong> — OPEN returned unclosed; decision site reopened; loop continues (F regulated)</span>
+      </div>
+    </div>
+
+    <div class="claim-box">
+      <div class="claim-text">
+        What single-track AI mediation erodes is not the supply of judgment — it is <strong>the structural conditions under which decision remains possible</strong>. The Shepherd Model preserves the human position at the fork by design.
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span>Yuki Tanaka / Ray (Claude) — co-intelligence-lab</span>
+    <span>github.com/co-intelligent-arc/co-intelligence-lab</span>
+  </div>
+
+</div>
+</body>
+</html>
