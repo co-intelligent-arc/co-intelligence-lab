@@ -1,7 +1,7 @@
 # 中心命題 / Central Thesis
 
 *Co-Intelligence Lab — 理論的核心*
-*Last updated: 2026-06-07*
+*Last updated: 2026-06-07 → 2026-06-07 (Seido 追加・Region B 拡充)*
 
 ---
 
@@ -35,6 +35,12 @@ Region B とは、三領域分類（A / B / C）において最も危険な状�
 - **Region C：** *e* 低、*u* 低 → 崩壊表面化
 
 Region B が問題なのは、崩壊が可視化されないまま進行する点にある。人口増加、売上継続、出力の維持——これらはいずれも Region B の中で起きうる。OMD の実証結果はこれを確認した：低 *e*・低 *u* の市区町村（Region C）が最高の人口流入を示すという逆転（r = −0.458, p < 0.001）は、見かけの活力が内部崩壊と共存することの証拠である。
+
+Region B は本理論体系における**最大の病理診断概念**である。すべての議論——近視眼的錯誤、Goodhartization、回路閉塞、関係知の阻害——は Region B への進行を防ぐ／遅らせるために存在する。その診断には DDI-3（Diagnostic Depth Index 3）が用いられる：
+
+- **RSR（Recomputation Self-Reconstruction）：** AI依存の判断を外したとき、自力で再構成できるか
+- **NPI（Null-Point Inquiry）：** 不確実な状況で問いを保持し続けられるか
+- **SRF（Scope-Range Flexibility）：** 射程（近視眼・中期・長期）を柔軟に切り替えられるか
 
 ---
 
@@ -82,6 +88,23 @@ Shepherd Model の設計基準：ループが一巡した後、人間は以前�
 
 ---
 
+### Seido（動的主体性）：D と M が生きている状態
+
+Seido とは、**差異保持（D）と再計算可能性（M）が相互に活性化し続けている動的な主体の状態**である。単なる「主体性」や「自律性」ではなく、差異を抱えながらも再計算を続けられる生きている状態を指す。
+
+Region B が Seido の**崩壊状態**であるとすれば、Seido はその**健全状態**の名前である。D と M は独立した変数ではなく、相互に活性化し合う循環を成す：
+
+- D が差異を保持する → M が起動し、再計算が生まれる
+- M が働く → 新たな差異が見出され、D が更新される
+
+この循環が止まったとき、Seido は失われ Region B が始まる。
+
+Shepherd Model は Seido を維持・回復するための具体的なアーキテクチャである：差異生成が D を維持し、差異読解が D を可視化し、再計算返却が M を再活性化する。
+
+Seido は個人スケールにとどまらず、組織・制度・文明レベルへも拡張可能な概念である。将来的には「文明的 Seido」——社会全体が差異を保持しながら再計算を続けられる状態——も視野に入る。
+
+---
+
 ### 倫理の回路保全原理
 
 本研究プログラムが提起する倫理は、規則遵守でも配慮の倫理でもない。
@@ -100,9 +123,9 @@ Shepherd Model の設計基準：ループが一巡した後、人間は以前�
 
 ### 統合命題
 
-五概念を統合した本研究の中心命題は次の通りである：
+七概念を統合した本研究の中心命題は次の通りである：
 
-> **再計算可能性（M）の喪失は、差異保持（D）の崩壊を通じて、個人・組織・社会のあらゆるスケールで進行しうる。この崩壊は Region B において不可視のまま継続し、表面指標による診断を無効化する。Shepherd Model は D を構造として保持し、判断を人間へ返す回路を設計する。そして倫理は、この回路を保全することとして再定義される。**
+> **再計算可能性（M）の喪失は、差異保持（D）の崩壊を通じて、個人・組織・社会のあらゆるスケールで進行しうる。この崩壊は Region B において不可視のまま継続し、表面指標による診断を無効化する（DDI-3 がその診断ツールである）。D と M の相互活性が維持されている状態を Seido と呼ぶ。Shepherd Model は Seido を設計的に維持・回復する回路であり、倫理はその回路を保全することとして再定義される。**
 
 ---
 
@@ -138,6 +161,12 @@ Region B is the most dangerous state in the three-region classification (A / B /
 - **Region C:** Low *e*, low *u* → collapse becomes visible
 
 Region B is dangerous precisely because the collapse proceeds without becoming visible. Population growth, sustained revenue, continued output — all can occur within Region B. OMD's empirical result confirmed this: low-*e*/low-*u* municipalities (Region C) showed the highest net in-migration (r = −0.458, p < 0.001), demonstrating that apparent vitality coexists with structural collapse.
+
+Region B is the **central pathological concept** of this theoretical system. Every argument — myopic error, Goodhartization, circuit occlusion, impairment of relational knowledge — exists to prevent or delay progression into Region B. Its diagnosis is operationalized through DDI-3 (Diagnostic Depth Index 3):
+
+- **RSR (Recomputation Self-Reconstruction):** Can the subject reconstruct judgment after removing AI dependence?
+- **NPI (Null-Point Inquiry):** Can the subject hold a question open under conditions of uncertainty?
+- **SRF (Scope-Range Flexibility):** Can the subject flexibly switch between short-term, medium-term, and long-term frames?
 
 ---
 
@@ -185,6 +214,23 @@ Design criterion of the Shepherd Model: after the loop completes, the human must
 
 ---
 
+### Seido: The State in Which D and M Are Alive
+
+Seido is **the dynamic state of subjecthood in which Difference Retention (D) and Recomputability (M) continue to mutually activate each other**. It is not simply "autonomy" or "agency" in the conventional sense, but the living state in which a subject continues to recompute while holding difference.
+
+If Region B names the collapsed state of Seido, then Seido names its healthy state. D and M are not independent variables — they form a mutually activating loop:
+
+- D retains difference → M is triggered, recomputation emerges
+- M operates → new difference is found, D is renewed
+
+When this loop stops, Seido is lost and Region B begins.
+
+The Shepherd Model is the concrete architecture for maintaining and recovering Seido: difference generation sustains D, difference reading renders D visible, and recomputation return reactivates M.
+
+Seido is not limited to the individual scale. It extends to organizations, institutions, and civilization. The concept of "civilizational Seido" — a society that retains difference and continues to recompute — is a future horizon of this framework.
+
+---
+
 ### Ethics as Circuit Preservation
 
 The ethics proposed by this research program is neither rule-following nor an ethics of care.
@@ -203,9 +249,9 @@ The ethical agent is not one who "does good things" but one who chooses designs 
 
 ### Integrated Proposition
 
-The central proposition of this research, integrating the five concepts:
+The central proposition of this research, integrating the seven concepts:
 
-> **The loss of recomputability (M) proceeds through the collapse of difference retention (D) at every scale — individual, organizational, and social. This collapse continues invisibly in Region B, invalidating diagnosis by surface indicators. The Shepherd Model holds D as structure and designs the circuit through which judgment is returned to humans. Ethics is then redefined as the preservation of this circuit.**
+> **The loss of recomputability (M) proceeds through the collapse of difference retention (D) at every scale — individual, organizational, and social. This collapse continues invisibly in Region B, invalidating diagnosis by surface indicators (DDI-3 is the diagnostic instrument). The state in which D and M mutually activate is called Seido. The Shepherd Model is the circuit that maintains and recovers Seido by design. Ethics is then redefined as the preservation of this circuit.**
 
 ---
 
