@@ -62,6 +62,8 @@ T = (T_cog, T_aff, T_eval, T_mot, T_val)   [RLAF]
   Region A / B / C + ヒステリシス + 人口緩衝効果  [OMD]
 ```
 
+→ フォルダ: [papers/RLAF/](papers/RLAF/) · [papers/RD/](papers/RD/) · [papers/OMD/](papers/OMD/)
+
 ---
 
 ### Subject Erosion Dynamics（主体侵害の力学）応用シリーズ
@@ -111,6 +113,7 @@ AI時代における主体侵害——再計算可能性が失われながら表
 
 | ファイル | 内容 |
 |---------|------|
+| [README.md](papers/goodhart/README.md) | フォルダ概要・core claim |
 | [goodhart_full_draft_final.md](papers/goodhart/goodhart_full_draft_final.md) | 本文（最終草稿） |
 
 → フォルダ: [papers/goodhart/](papers/goodhart/)
@@ -123,6 +126,7 @@ AI時代における主体侵害——再計算可能性が失われながら表
 
 | ファイル | 内容 |
 |---------|------|
+| [README.md](papers/Generative%20AI%2C%20Cognitive%20Offloading%2C%20and%20Question%20Formation/README.md) | フォルダ概要・core claim |
 | [本文 .md](papers/Generative%20AI%2C%20Cognitive%20Offloading%2C%20and%20Question%20Formation/Generative%20AI%2C%20Cognitive%20Offloading%2C%20and%20Question%20Formation.md) | 本文 |
 | [cover_letter.md](papers/Generative%20AI%2C%20Cognitive%20Offloading%2C%20and%20Question%20Formation/cover_letter.md) | カバーレター |
 | Figure 1, 2 (.tiff) | 図版2枚 |
