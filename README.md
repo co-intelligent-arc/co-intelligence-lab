@@ -135,15 +135,21 @@ AI時代における主体侵害——再計算可能性が失われながら表
 
 ---
 
-## 論考（Essays）
+## essays/ — 理論素材庫
 
-ピアレビューなしの理論エッセイ群。各論文の概念的基盤を形成し、形式化以前の理論を展開する。
+査読なしの理論探索。完成論文ではなく、各論文の概念的基盤を形成する素材群。AIとの対話を通じて構築された論考・草稿・断章が未整理のまま収録されている。徐々に整理予定。
+
+### 整理済み（参照可能）
 
 | タイトル | 日本語 | English | 概要 |
 |---------|--------|---------|------|
 | 論考論考 | [JP](essays/ronko-ronko/ronko_ronko_v0_1_JP.md) | [EN](essays/ronko-ronko/ronko_ronko_v0_1_EN.md) | 考えるとはどういうことか。認知の四層分解（L0–L4）とAI時代の主体保障論。 |
 | 意図的創発 | [JP](essays/intentional_emergence/intentional_emergence_v0_3.md) | [EN](essays/intentional_emergence/intentional_emergence_v0_3_EN.md) | 創発の条件は設計されうるか。器形成・アテンション地形・開放型創発の理論。 |
 | 関係知の設計 | [JP](essays/relational_knowledge/relational_knowledge_draft_v0_1.md) | [EN](essays/relational_knowledge/relational_knowledge_design_v0_1_EN.md) | 知識はどのように主体間で生まれるか。潜在器・走査・受容的充填・関係場の設計論。 |
+
+### 未整理（作業中）
+
+その他の論考・草稿は [essays/](essays/) フォルダ内に収録。内容は理論構築の痕跡であり、完成度は問わない。
 
 ---
 
