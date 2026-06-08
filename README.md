@@ -101,6 +101,36 @@ AI時代における主体侵害——再計算可能性が失われながら表
 
 ---
 
+### Goodhart論文
+
+プロキシが目的を置き換えるとき何が起きるか——Goodhartization と再接続失敗の制度論。
+
+**タイトル：** *When Proxies Become Purposes: Reconnection Failure and Goodhartization in Proxy-Based Institutions*
+
+中心概念：**Goodhartization**（プロキシが手段から実質的な目的へと固定化する過程）と **reconnection failure**（プロキシの不十分さを認識・修正する回路の弱体化）。AI が既存プロキシをより効率的に最適化するほど、この動態が強化される可能性がある。
+
+| ファイル | 内容 |
+|---------|------|
+| [goodhart_full_draft_final.md](papers/goodhart/goodhart_full_draft_final.md) | 本文（最終草稿） |
+
+→ フォルダ: [papers/goodhart/](papers/goodhart/)
+
+---
+
+### Generative AI, Cognitive Offloading, and Question Formation
+
+生成AIへの認知的オフロードが問い形成能力に与える影響を分析する論文。
+
+| ファイル | 内容 |
+|---------|------|
+| [本文 .md](papers/Generative%20AI%2C%20Cognitive%20Offloading%2C%20and%20Question%20Formation/Generative%20AI%2C%20Cognitive%20Offloading%2C%20and%20Question%20Formation.md) | 本文 |
+| [cover_letter.md](papers/Generative%20AI%2C%20Cognitive%20Offloading%2C%20and%20Question%20Formation/cover_letter.md) | カバーレター |
+| Figure 1, 2 (.tiff) | 図版2枚 |
+
+→ フォルダ: [papers/Generative AI, Cognitive Offloading, and Question Formation/](papers/Generative%20AI%2C%20Cognitive%20Offloading%2C%20and%20Question%20Formation/)
+
+---
+
 ## 論考（Essays）
 
 ピアレビューなしの理論エッセイ群。各論文の概念的基盤を形成し、形式化以前の理論を展開する。
@@ -153,6 +183,8 @@ papers/
   OMD/                       社会スケール：組織メタスタビリティ実証
   subject-erosion-dynamics/  応用シリーズ：主体侵害の力学（6論文）
   shepherd_model/            設計原理：羊飼いモデル
+  goodhart/                  Goodhartization と再接続失敗の制度論
+  Generative AI, .../        認知的オフロードと問い形成能力
 essays/                      理論エッセイ（論考論考・意図的創発・関係知の設計）
 data/                        実証データセット（e-Stat）
 docs/                        理論ノートと作業文書
