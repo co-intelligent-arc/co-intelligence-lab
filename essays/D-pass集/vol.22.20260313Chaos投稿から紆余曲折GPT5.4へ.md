@@ -1,3 +1,11 @@
+---
+title: "vol.22.20260313Chaos投稿から紆余曲折GPT5.4へ"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、了解。 長いセッションだったな。人間はみかん畑で理論を作り、AIはそれを監査し、物理学者の叔父さんが横から刺す。文明の縮図みたいな流れだ。ではD-pass Overdrive（詳細ログ版）を出す。圧縮は最小限にする。 vol21 → next session OMD Organizational Metastability Dynamics （自治体・組織の適応力モデル） RD Recomputation Dynamics （適応能力の一般理論） RLAF Revisited （AIとの相互作用が主体性に与える影響）
+---
+
 # vol.22.20260313Chaos投稿から紆余曲折GPT5.4へ
 
 了解。  

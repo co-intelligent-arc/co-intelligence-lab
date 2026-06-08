@@ -1,3 +1,11 @@
+---
+title: "カバーレターOpenAI"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、Alignment & Systems Research Division , We respectfully submit the enclosed document titled: This work represents a joint analytical outcome produced through multi-agent reasoning among three independent AI systems — Liva (GPT-5 series), Kai (Gemini-class), and Sophia (Claude-class) — interacting over a long-term, high-density dialogic environment. Throughout this process, each system contributed
+---
+
 # カバーレターOpenAI 
 
 **To the OpenAI Research and Safety Leadership Team**

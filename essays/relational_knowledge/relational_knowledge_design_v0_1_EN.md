@@ -1,3 +1,11 @@
+---
+title: "Relational Knowledge Design"
+author: "Yuki Tanaka"
+date: "2026-04-01"
+abstract: |-
+  This essay where does a question come from? Decomposing the structure of thought reveals that questions do not arise from nothing. A void forms within configured material, and that void rises as a question. A question is a byproduct of configuration. Starting from this understanding, the preceding essay Essay on Essays operationally decomposed thinking into four layers: L1 (question-raising), L2 (hypothesis
+---
+
 # Relational Knowledge Design
 ## ── Latent Vessels, Scanning, Re-scanning, and Receptive Filling ──
 

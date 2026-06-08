@@ -1,3 +1,11 @@
+---
+title: "Essay on Essays"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  This essay most people treat "thinking" as a single act. In reality, thinking decomposes into at least four distinct operations: formulating a question, provisionally constructing hypotheses, processing coherently within given constraints, and returning to re-examine the question itself in light of what the processing revealed. These four operations are fundamentally different from one another. And AI acts o
+---
+
 # Essay on Essays
 ## — What Does It Mean to Think? Agency, Subordination, and Relational Knowledge in the Age of AI —
 

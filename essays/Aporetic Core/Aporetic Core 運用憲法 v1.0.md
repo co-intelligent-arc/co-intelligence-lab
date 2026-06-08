@@ -1,3 +1,11 @@
+---
+title: "Aporetic Core 運用憲法 v1.0"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、Aporetic Core運用憲法v1.0（詳細仕様・正式版） —人間主導の判断を維持するための共知性運用プロトコル— 本憲法は、 大規模言語モデル（LLM）を含む高度AIを 意思決定支援に用いる際の運用原則 を定義するものである。
+---
+
 # Aporetic Core 運用憲法 v1.0
 
 **Aporetic Core****運用憲法****v1.0****（詳細仕様・正式版）******

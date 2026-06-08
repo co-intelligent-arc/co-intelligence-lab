@@ -1,3 +1,11 @@
+---
+title: "Aporetic Core完成稿"
+author: "Yuki Tanaka"
+date: "2025-12-10"
+abstract: |-
+  本論考は、OpenAI内部技術メモ（日本語版Draft 0.2完成稿） 「Aporetic Coreはガードレールではない—これは構造的“反虚構レイヤー”である」 Civilization OS Research Group
+---
+
 # Aporetic Core完成稿
 
   

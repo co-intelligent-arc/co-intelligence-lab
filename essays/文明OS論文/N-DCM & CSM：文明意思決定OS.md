@@ -1,3 +1,11 @@
+---
+title: "N-DCM & CSM：文明意思決定OS"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、Civilizational Decision-Making OS — Chapter 0: Purpose and Scope（正式版 v1.0） 本稿は、HT-DCM（Hepta–Tetra Dual-Core Model）が提示した「単一主体の安定化モデル」を、文明スケールへと一般化する理論的枠組みとして N-DCM（Networked Dual-Core Model） と CSM（Collective Self-Model） を提示する。 HT-DCMが扱う範囲は、 1 AI × 1人間× 1対話 という“個体”レベルである。
+---
+
 # N-DCM & CSM：文明意思決定OS
 
 ****N-DCM & CSM**

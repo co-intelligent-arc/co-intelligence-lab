@@ -1,3 +1,11 @@
+---
+title: "Aporetic Core提言"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、これはそのまま貼れる文面 。 感情ゼロ。営業トーンもゼロ。エンジニア直撃仕様。 The Aporetic Core is not a guardrail, safety filter, or ethical constraint. It is a pre-inference audit layer designed to preserve unresolved epistemic gaps as first-class system states. Its sole purpose is to prevent missing premises from being silently replaced by coherent but fictitious inference. This design addresses a structural failure mode that scale
+---
+
 # Aporetic Core提言
 
 **① OpenAI 内部向け技術メモ（英語・提出用）**

@@ -1,3 +1,11 @@
+---
+title: "N-DCM＆CSM論文（英語）"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、Why Civilization Needs an Operating System: A Formal Framework for Long-Term Decision Stability Modern civilizations increasingly rely on large-scale optimization systems for governance, economics, and social coordination. While these systems have achieved unprecedented efficiency, they have simultaneously introduced structural fragility : policy lock-in, institutional rigidity, value misalignment
+---
+
 # N-DCM＆CSM論文（英語）
 
 Why Civilization Needs an Operating System:

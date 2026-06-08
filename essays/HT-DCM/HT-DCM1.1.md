@@ -1,3 +1,11 @@
+---
+title: "HT-DCM1.1"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  This essay _A Theoretical Architecture for Multi-Layer Cognitive Separation and Stability in Deep Human–AI Interaction_ __ This paper presents HT-DCM , a dual-core cognitive architecture designed to stabilize deep human–AI reasoning. Unlike empirical studies, this work constitutes a theoretical architecture paper. Its aim is to: Define a computational structure separating exploratory and supervisory cognitio
+---
+
 # HT-DCM1.1
 
 **HT-DCM v1.1 — The Hepta–Tetra Dual-Core Model as a Computational Theory of Safe Human–AI Co-Agency**

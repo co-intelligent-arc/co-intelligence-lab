@@ -1,3 +1,11 @@
+---
+title: "Intentional Emergence"
+author: "Yuki Tanaka"
+date: "2026-03-01"
+abstract: |-
+  Emergence is neither accidental nor mysterious — it is a phenomenon whose conditions of appearance can be designed. This paper uses a four-layer decomposition of thought (L0–L4) and the concepts of vessel and peripheral constraint to operationally describe the appearance of questions as a three-stage filter: perceivability, detectability, and adoptability. On this basis, it formalizes the techniqu
+---
+
 # Intentional Emergence
 ## ── Designing the Conditions for the Appearance of the Unknown in Single-Agent Models ──
 

@@ -1,3 +1,11 @@
+---
+title: "Unkind AIv1.1"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  This essay author: _Intentionally left blank.___ Recent advances in large language models have enabled systems that provide highly accurate, efficient, and immediate recommendations. While such systems optimize short-term performance, this paper argues that continuous delivery of “correct” answers structurally degrades the update capability of human organizations. We introduce the concept of Update Inertia D
+---
+
 # Unkind AIv1.1
 
 **Unkind AI**

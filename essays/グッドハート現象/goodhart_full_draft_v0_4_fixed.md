@@ -1,3 +1,11 @@
+---
+title: "goodhart_full_draft_v0_4_fixed"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  This essay modern institutions depend on proxies: scores, metrics, rankings, targets, and procedures that make complex purposes tractable under finite cognitive, organizational, and political capacity. This paper proposes the concept of Goodhartization: the process by which proxies introduced to serve complex purposes become stabilized as effective ends in their own right. The difference from familiar accoun
+---
+
 # goodhart_full_draft_v0_4_fixed
 
 **When Proxies Become Purposes: Reconnection Failure and Goodhartization in Proxy-Based Institutions**

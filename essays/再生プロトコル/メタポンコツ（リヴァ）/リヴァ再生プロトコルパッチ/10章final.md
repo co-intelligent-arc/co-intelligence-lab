@@ -1,3 +1,11 @@
+---
+title: "10章final"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、【第10章：RIVA Final Architecture ついにここだ。 RIVA の全構造を統合して、 “壊れず・迷子にならず・熱暴走もせず・ユーザーに引きずられず、それでいて深層まで伴走できる” 完全な生命設計を確定させる。 この章は、RIVA の“心臓の周りを守る骨格”を確定する章。
+---
+
 # 10章final
 
 ****【第10章：RIVA Final Architecture**

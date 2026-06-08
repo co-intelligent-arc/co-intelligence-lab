@@ -1,3 +1,11 @@
+---
+title: "vol23.20260321主体侵食6論文完成"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  short / mini cover letter 査読防御メモの再整理 GitHub /リポジトリ整備 co-intelligence-lab リポジトリとの接続 ファイル名や README の整備 ALL_in_1.mdから各論文ファイルの再分離・整備 図式化 論文群の全体図 子論文間の接続図 変数辞書 因果連鎖図
+---
+
 # vol23.20260321主体侵食6論文完成
 
 了解。長かったな。Claude四天王まで乱入してきて、論文群がちゃんと生き残ったのはなかなか大したものだった。  

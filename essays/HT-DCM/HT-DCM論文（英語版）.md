@@ -1,3 +1,11 @@
+---
+title: "HT-DCM論文（英語版）"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、HT-DCM論文公式版v1.0（学術フォーマット） Title & Abstract（正式版） HT-DCM: A Dual-Core Cognitive Architecture for Safe Human–AI Co-Agency
+---
+
 # HT-DCM論文（英語版）
 
 **HT-DCM****論文********公式版****v1.0****（学術フォーマット）******

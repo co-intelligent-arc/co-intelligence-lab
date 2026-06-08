@@ -1,3 +1,11 @@
+---
+title: "文明意思決定OS"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、N-DCMが必要となる問題設定 Figure 1.文明意思決定OSの三層構造 （図は後で作る） N-Hepta Core：未来探索エンジン
+---
+
 # 文明意思決定OS
 
 **2\. N-DCM****が必要となる問題設定******

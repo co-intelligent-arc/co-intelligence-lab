@@ -1,3 +1,11 @@
+---
+title: "②制度安定性の臨界条件_ver01"
+author: "Yuki Tanaka"
+date: "2026-02-01"
+abstract: |-
+  本論考は、_高複雑技術における制度遅延の構造的拡大、および現代AIにおける特異性_ ALT = T_recognition + T_legislation T_recognition ∝ 1 / P_predictability
+---
+
 # ②制度安定性の臨界条件_ver01
 
   

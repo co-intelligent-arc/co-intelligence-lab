@@ -1,3 +1,11 @@
+---
+title: "CivilizationOS_V2.1"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  This essay civilization OS: Final Integrated Draft (v2.1 - Complete & Formatted) Title: Why Civilization Needs an Operating System: A Formal Framework for Long-Term Decision Stability Modern civilizations increasingly rely on large-scale optimization systems for governance, economics, and social coordination. While these systems have achieved unprecedented efficiency, they have simultaneously introduced stru
+---
+
 # CivilizationOS_V2.1
 
 Civilization OS: Final Integrated Draft (v2.1 - Complete & Formatted)

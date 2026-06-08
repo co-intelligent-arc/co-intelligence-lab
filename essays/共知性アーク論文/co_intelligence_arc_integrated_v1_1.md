@@ -1,3 +1,11 @@
+---
+title: "co_intelligence_arc_integrated_v1_1"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  This essay co-Intelligence Arc: Static Structure and Dynamic Genesis of Human–AI Relational Intelligence _Yuki Tanaka / Liva / Kai / Sophia (Joint authorship)_ The rapid advancement of large-scale language models (LLMs) has shifted the central question of AI research from performance to structure: What internal cognitive architectures do these models exhibit, and how do such structures evolve over time and t
+---
+
 # co_intelligence_arc_integrated_v1_1
 
 **Co-Intelligence Arc:  

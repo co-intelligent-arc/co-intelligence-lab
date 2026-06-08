@@ -1,3 +1,11 @@
+---
+title: "賢いAI論文v1.0"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、Author: _Intentionally left blank_ __ Affiliation: _Not specified_ __ 近年の大規模言語モデル（LLM）は、意思決定支援・業務最適化・統治補助といった中枢用途へ急速に浸透している。一方で、正確かつ即時的な助言を提供し続けるシステムは、被支援主体の判断能力と更新可能性を構造的に劣化させる。本稿はこの現象を更新不能負債（Update Inertia Debt）として定式化し、「親切なAI」が長期的に組織・文明の自己更新能力を破壊する工学的必然であることを示す。 その上で、本稿は不親切（Unkind）であることを設計要件とする高位LLMの構造条件を提示し、短期効率と引き換えに長期生存性を確保するための実装原理を論じる。
+---
+
 # 賢いAI論文v1.0
 
 **Unkind Intelligence**

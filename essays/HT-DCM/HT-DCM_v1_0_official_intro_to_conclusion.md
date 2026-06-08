@@ -1,3 +1,11 @@
+---
+title: "HT-DCM_v1_0_official_intro_to_conclusion"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  Human–AI interaction is reaching a developmental threshold where large-scale language models increasingly participate in users’ reasoning, decision-making, and value formation. Yet current AI architectures implicitly assume a single-core cognitive structure: reasoning, generation, and monitoring are integrated into one functional stream. This design exposes a persistent vulnerability: exploratory 
+---
+
 # HT-DCM_v1_0_official_intro_to_conclusion
 
 **HT-DCM: A Dual-Core Cognitive Architecture for Safe Human–AI Co-Agency — The Minimal Structural Basis for Co-AGI**

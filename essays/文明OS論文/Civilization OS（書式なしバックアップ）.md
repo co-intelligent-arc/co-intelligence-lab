@@ -1,3 +1,11 @@
+---
+title: "Civilization OS（書式なしバックアップ）"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  Modern civilizations increasingly rely on large-scale optimization systems for governance, economics, and social coordination. While these systems have achieved unprecedented efficiency, they have simultaneously introduced structural fragility: policy lock-in, institutional rigidity, value misalignment, and cascading failures across social domains. Existing approaches often address these issues at
+---
+
 ## Civilization OS: Final Integrated Draft (v2.1 - Complete & Formatted)
 
   

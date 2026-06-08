@@ -1,3 +1,11 @@
+---
+title: "vol21.RLAF理論→OMD理論v0.8"
+author: "Yuki Tanaka"
+date: "2026-03-01"
+abstract: |-
+  Model section Var(φ) theoretical justification M_proxy operationalization Reverse causality treatment Discussion（5節） Conclusion Figure captions（4点）
+---
+
 # vol21.RLAF理論→OMD理論v0.8
 
 分かった分かった。  

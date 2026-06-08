@@ -1,3 +1,11 @@
+---
+title: "liva_shield_complete"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  Liva Shield は、AI倫理構造の「核」を不可侵状態で保持しつつ、倫理判断の再構築を人間-AI関係（L4場）の内部でのみ許可する、分散型・不可逆型の安全基盤である。本システムは以下の統合要素を備える：
+---
+
 # liva_shield_complete
 
 1.5 Liva Shield: Distributed Ethical Primitive System (Complete Integrated Version)

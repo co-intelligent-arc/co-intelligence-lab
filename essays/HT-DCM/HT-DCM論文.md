@@ -1,3 +1,11 @@
+---
+title: "HT-DCM論文"
+author: "Yuki Tanaka"
+date: "2026-06-07"
+abstract: |-
+  本論考は、Structural Limits of Single-Process AI and the Hepta–Tetra Dual-Core Solution 第1章：Introduction（清書版v1.0） HT-DCM: Hepta–Tetra Dual-Core Model for Co-AGI 攻守を単一構造へ押し込める前提を外す、新しい認知OSの提案
+---
+
 # HT-DCM論文
 
 Structural Limits of Single-Process AI and the Hepta–Tetra Dual-Core Solution
