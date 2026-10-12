@@ -1,6 +1,33 @@
 # Co-Intelligence Lab
 
-**再計算可能性の喪失と、その設計的回復に関する理論研究プログラム**
+## DRCF / 差異―改訂回路論
+
+**Difference–Revision Circuit Framework (DRCF)**  
+**差異―改訂回路論**
+
+> **DRCF (formerly IPF: Inquiry Preservation Framework)**
+
+2026-10-13以降、本研究プログラムの理論母艦は **IPF (Inquiry Preservation Framework)** から **DRCF (Difference–Revision Circuit Framework)** へ名称を移行する。投稿済み・審査中・歴史資料に残るIPF表記は来歴として変更しない。DRCF表記は今後の新規文書から用いる。
+
+DRCFの現行中心理解は、現行の枠・評価軸・予測・目的では十分に回収できない差異を検知・保持し、その差異が生む改訂圧を必要な階層の改訂機構へ因果的に接続し、更新後も再評価へ戻せるかを診断・設計する枠組みである。
+
+**標語：差異を、改訂へ届かせる。**
+
+### 研究プログラムの三本柱
+
+本研究プログラムは、2026-10-13以降、以下の三本柱を並行して運用する。旧来の「主線は一本のみ」という運用規則は、柱ごとに主線プロジェクトを持つ方式へ置き換える。
+
+| 柱 | 役割 | 現在の中心 |
+|---|---|---|
+| **I. 理論研究** | 世界・制度・人間・AIの自己修正可能性を理論化する | DRCF、Goodhartization、主体侵害、再計算、superalignment等 |
+| **II. 社会実装** | 研究成果を制度・教育・実践へ戻す | 特に教育分野。農音は明示的に接続した案件のみ含む |
+| **III. Frontier AI外部観測** | 公開情報からfrontier AIの現在状態とその先を継続推定する | 作業名: Independent Frontier AI Observatory |
+
+第三柱では、研究者発言、ラボ公式資料、System Card、外部eval、論文、GitHub/Hugging Face、事故・社会影響等を横断し、**観測 → 状態推定 → 仮説・事前予測 → 新情報による検証 → 地図更新 → 観測系自体の更新**を行う。理論の確認装置に堕さないため、DRCFで説明できない観測と外れた予測も保存する。
+
+---
+
+**再計算可能性の喪失と、その設計的回復に関する理論研究プログラム**  
 *A research program on the loss of recomputability and its architectural recovery*
 
 ---
